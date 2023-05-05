@@ -1,5 +1,7 @@
 package cn.hy;
 
 public class User {
-    private  String username;
+    public static void main(String[] args) {
+        System.out.println("learn-2");
+    }
 }
